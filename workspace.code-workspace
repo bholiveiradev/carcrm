@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "D:\\projetos\\react\\carcrm"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "carcrm"
+	}
+}
